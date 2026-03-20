@@ -6,4 +6,3 @@ Project Sistem Informasi Manajemen Perpustakaan berbasis web. Dibangun untuk mem
 - PHP
 - HTML & CSS
 - MySQL Database
-# Project-Perpustakaan
